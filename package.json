@@ -4,7 +4,8 @@
   "description": "A simple RESTful API built with **Node.js**, **Express**, and **MongoDB (Mongoose)** to create and fetch notes.",
   "main": "index.js",
   "scripts": {
-    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend"
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+   "start": "npm run start --prefix backend"
   },
   "repository": {
     "type": "git",
@@ -13,7 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Animesh-Samantaray/ThinkPad-The-Note-App/issues"
   },
