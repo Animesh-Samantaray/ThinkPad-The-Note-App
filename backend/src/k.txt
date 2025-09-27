@@ -1,0 +1,3 @@
+9ooNRXG8AHTO3gW8
+
+mongodb+srv://animeshsamantaray2_db_user:9ooNRXG8AHTO3gW8@thinkpad.lqu8nfs.mongodb.net/?retryWrites=true&w=majority&appName=thinkPad
